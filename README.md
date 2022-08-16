@@ -22,6 +22,27 @@
 
 **2. Marco Teórico**
 
+![image](https://user-images.githubusercontent.com/105686218/184775269-bb8f444d-aa02-4525-9150-f83687d9644b.png)
+
+![image](https://user-images.githubusercontent.com/105686218/184775447-72f63ece-f899-463e-9dd2-9a1629239ef3.png)
+
+![image](https://user-images.githubusercontent.com/105686218/184775595-d45002c5-3419-4414-8a78-d8c013dfc148.png)
+
+![image](https://user-images.githubusercontent.com/105686218/184775688-ecd63822-6f99-454d-a656-fdf723d47148.png)
+
+![image](https://user-images.githubusercontent.com/105686218/184776053-f7b0c4e3-6277-45fb-814a-b85ce6c1e72f.png)
+
+![image](https://user-images.githubusercontent.com/105686218/184776395-a017d0db-be87-434c-b6e8-b33452a914ca.png)
+
+
+![image](https://user-images.githubusercontent.com/105686218/184776646-b4cabf7e-d768-4546-b79a-2e856a8685ca.png)
+
+![image](https://user-images.githubusercontent.com/105686218/184776745-cb28f0a3-4daf-4367-ac60-eefee802c570.png)
+
+![image](https://user-images.githubusercontent.com/105686218/184776894-2d4a02a4-7938-4065-bc46-12fb40b5eae3.png)
+
+
+
 ***
 
 **3. Explicacion de procedimiento**
