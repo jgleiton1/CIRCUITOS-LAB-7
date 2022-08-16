@@ -355,17 +355,22 @@ Los valores eficaces son los valores que tendria una corriente continua, la cual
 
 ***
 
-**6. Cálculo de error**
-
-![image](https://user-images.githubusercontent.com/94011974/170057592-12d7c136-22cd-4cac-9532-0e92eb81f1b9.png)
-
-***
-
 **7. Vídeo**
 
 ***
 
 **8. Conclusiones**
+
+-	A partir de lo investigado anteriormente, se puede concluir que el capacitor es un componente eléctrico que guarda energía eléctrica y tiene la propiedad de capacitancia, que es la capacidad de carga que un capacitor puede almacenar, cuando están en paralelo solo se tienen que sumar. Por otro lado, el inductor o también conocido como bobina, almacena energía en forma de campo magnético, tiene la propiedad de inductancia que es la capacidad de una bobina para establecer un voltaje inducido. 
+
+
+-	El análisis del comportamiento del inductor y el capacitor, ha permitido determinar que la bobina en un circuito de corriente continua se comporta como un cortocircuito, por lo que la corriente pasa sin ninguna resistencia, mientras que el capacitor aparece como una abertura ante un voltaje constante y se comporta como un acumulador de carga.  En un circuito de corriente alterna el inductor produce un campo que varía de manera constante y un capacitor es un circuito abierto en todos los casos.
+
+
+-	Los instrumentos que se realizaron para las practicas eran de medidas, se utilizó el multímetro que sirve para medir esencialmente la corriente y el voltaje, también se usó el osciloscopio que sirve para la representación de graficas de señales eléctricas, en este caso por medios de las gráficas nos indicó el voltaje.
+
+
+-	En la justificación del video se pude observar las practicas realizadas en el laboratorio virtual para entender de mejor manera al capacitor e inductor cuando se aplica corriente alterna y continua, y responder a las interrogantes planteadas en la investigación. 
 
 ***
 
