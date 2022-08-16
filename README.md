@@ -26,7 +26,7 @@ Justificar el comportamiento de la bobina y el capacitor en corriente alterna y 
 
 - Reconocer los instrumentos de medida y su uso.
 
-- Comparar los resultados que se obtienen analíticamente, experimentalmente y emitir el porcentaje de error.
+- Explicar el desarrollo del laboratorio, mediante la presentación de un video, en el que se presente la teoría las prácticas en el laboratorio virtual.
 
 ***
 
