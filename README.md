@@ -13,10 +13,19 @@
 ***
 
    **1.1. Objetivo General** 
+Justificar el comportamiento de la bobina y el capacitor en corriente alterna y corriente continua, mediante prácticas realizadas en el laboratorio virtual ACDCLab, para afianzar los conocimientos adquiridos en clase sobre el tema propuesto.
 
 ***
 
   **1.2. Objetivos Específicos:**
+  
+- Explicar mediante mapas conceptuales lo que es un inductor y capacitor, a partir de una búsqueda bibliográfica.
+
+- Analizar el comportamiento de la bobina y el capacito, en circuito DC y AC, mediante simulaciones realizadas en el laboratorio virtual ACDCLab.
+
+- Reconocer los instrumentos de medida y su uso.
+
+- Comparar los resultados que se obtienen analíticamente, experimentalmente y emitir el porcentaje de error.
 
 ***
 
