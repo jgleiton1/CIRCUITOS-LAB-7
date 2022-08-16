@@ -13,6 +13,7 @@
 ***
 
    **1.1. Objetivo General** 
+   
 Justificar el comportamiento de la bobina y el capacitor en corriente alterna y corriente continua, mediante prácticas realizadas en el laboratorio virtual ACDCLab, para afianzar los conocimientos adquiridos en clase sobre el tema propuesto.
 
 ***
